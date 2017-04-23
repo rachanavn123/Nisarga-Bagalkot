@@ -1,0 +1,49 @@
+.table-bordered {
+    border: none;
+}
+
+.table-bordered thead th {
+    background-color: #E1E1E1;
+    border-top: 1px solid #a3a3a3 !important;
+    border-bottom: 1px solid #a3a3a3 !important;
+}
+
+.table-bordered th, .table-bordered td {
+    border: none !important;
+    border-bottom: 1px solid #E1E1E1 !important;
+}
+
+.logo-header-container {
+    background-color: #213055;
+    filter:progid: DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=#213055, endColorstr=#636e88);
+    background-image: -moz-linear-gradient(left, #213055 0%, #636e88 50%,#213055 100%);
+    background-image: linear-gradient(left, #213055 0%, #636e88 50%,#213055 100%);
+    background-image: -webkit-linear-gradient(left, #213055 0%, #636e88 50%,#213055 100%);
+    background-image: -o-linear-gradient(left, #213055 0%, #636e88 50%,#213055 100%);
+    background-image: -ms-linear-gradient(left, #213055 0%, #636e88 50%,#213055 100%);
+    background-image: -webkit-gradient(linear, left bottom, right bottom, color-stop(0%,#213055), color-stop(50%,#636e88),color-stop(100%,#213055));
+}
+
+.navbar {
+    border-radius: 0 !important;
+    border: none !important;
+    background-color: #18171A;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #ece6cc;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #555 !important;
+    background-color: #e7e7e7 !important;
+}
+
+.sub-head {
+    font-size: 2rem;
+    font-family: "BebasNeue";
+    font-weight: normal !important;
+    color: #d09a82 !important;
+    padding: 0;    
+    line-height: 1.5;
+}
