@@ -2171,3 +2171,18 @@ bold {
 .strong {
 	font-weight: bold;
 }
+
+.latest-news-container ul, .upcoming-events ul{
+	list-style: inherit;
+	padding-left: 7rem;	
+}
+
+.upcoming-events article{
+	border-bottom: none;
+	padding-left: 5rem;
+}
+
+.upcoming-events .info {
+	padding-top: 1rem;
+	font-weight: bold;
+}
