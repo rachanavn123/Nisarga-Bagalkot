@@ -2186,3 +2186,11 @@ bold {
 	padding-top: 1rem;
 	font-weight: bold;
 }
+
+.location-map-address { 
+	margin-top: 1rem;
+}
+
+.location-map-address h4 { 
+	font-weight: bold;
+}
